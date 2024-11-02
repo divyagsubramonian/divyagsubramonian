@@ -10,8 +10,11 @@ Hi, I’m Divya! I’m a second-year undergraduate at UC Santa Barbara pursuing 
 ---
 
 **Languages**: Java, C++, Python, MATLAB, iOS Swift, HTML/CSS, Assembly
+
 **Frameworks**: OpenCV, MediaPipe, Flask
+
 **Developer Tools**: AutoDesk Inventor, Visual Studio Code, Xcode, Jupyter Notebooks, Google Colab, Git, GitHub
+
 **Libraries**: pandas, NumPy, Matplotlib, scikit-learn, PyTorch, Keras
 
 <!--
