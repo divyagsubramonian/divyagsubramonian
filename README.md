@@ -8,7 +8,7 @@ Hi, I’m Divya (she/her)! I’m a third-year undergraduate at UC Santa Barbara 
 
 **Languages**: Java, C++, Python, SQL, JavaScript, MATLAB, HTML/CSS
 
-**Frameworks and Developer Tools**: MediaPipe, Node.js, Visual Studio Code, Xcode, Git, RESTful APIs, Flask, Spring Boot
+**Frameworks and Developer Tools**: MediaPipe, Node.js, Visual Studio Code, Git, RESTful APIs, Flask, Spring Boot
 
 **Libraries**: pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow, Keras, React, OpenCV
 
