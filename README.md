@@ -1,9 +1,5 @@
 # Hi there 👋
 
-## About Me
-
-Hi, I’m Divya (she/her)! I’m a third-year undergraduate at UC Santa Barbara pursuing a bachelor’s degree in computer science, and I’m seeking internship opportunities in machine learning or software engineering! I have a strong foundation in data structures and algorithms, machine learning, and software development, and my interests lie in machine learning and human-computer interaction. I look forward to connecting with fellow peers, professionals, and mentors who have similar interests!
-
 ## Languages/Tools
 
 **Languages**: Java, C++, Python, SQL, JavaScript, MATLAB, HTML/CSS
